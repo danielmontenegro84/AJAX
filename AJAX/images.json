@@ -1,0 +1,14 @@
+{
+    "animals": [
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg", "name": "Gato"},
+      {"imagemUrl": "https://s2.glbimg.com/78SLgYvBCg6LHdODA4wWH6QN5ek=/e.glbimg.com/og/ed/f/original/2014/08/04/pinguim1.jpg", "name": "Pinguim"},
+      {"imagemUrl": "https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_960_720.jpg", "name": "Gato 2"},
+      {"imagemUrl": "https://www.wilder.pt/wp-content/uploads/2020/01/Isiwal.jpg", "name": "Guaxinim"},
+      {"imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRerrUPBy2GqiwybSqzOftJj0B5qK74rKazQg&usqp=CAU", "name": "Leão"},
+      {"imagemUrl": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/41fca8d208df55690ac38461894ee67c.jpg", "name": "Pássaro"},
+      {"imagemUrl": "https://www.estudokids.com.br/wp-content/uploads/2019/06/tigres-1200x675.jpg", "name": "Tigre"},
+      {"imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVl4JZAe2T5pQVOOKCgNuXrrRbH_K4LRhUDw&usqp=CAU", "name": "Girafa"},
+      {"imagemUrl": "https://static.preparaenem.com/2022/01/elefante-africano-de-savana-na-pastagem.jpg", "name": "Elefante"},
+      {"imagemUrl": "https://img.r7.com/images/macacos-da-neve-macacos-japoneses-01032019143603565", "name": "Macaco"}
+    ]
+  }
